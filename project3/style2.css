@@ -1,0 +1,224 @@
+/* style for body */
+body
+{
+
+  font-family: 'Ubuntu' sans-serif;
+  background-attachment: fixed;
+}
+p:hover
+{
+  color: green;
+}
+/* style for first division */
+.first
+{
+  position: absolute;
+    visibility: visible;
+    left: 0px;
+    top: 0px;
+    height: 790px;
+    width: 275px;
+    z-index: 200;
+    background-color: black;
+    background-attachment: fixed;
+}
+/* style for second division */
+.second
+{
+  position: absolute;
+    visibility: visible;
+    left: 16em;
+    top: 0px;
+    height: 790px;
+    width: 1200px;
+    z-index: 200;
+    background-color: gray;
+    background-attachment: fixed;
+}
+/* style for button 1 */
+.button1
+{
+  background-attachment: fixed;
+  position: absolute;
+    left: 25em;
+    top: 1em;
+    border-radius: 8px;
+    background-color: #00FA9A;
+    width: 100px;
+    height: 38px;
+    border: none;
+}
+/* style for button 2 */
+.button2
+{
+  background-attachment: fixed;
+  position: absolute;
+    left: 35em;
+    top: 1em;
+    border-radius: 8px;
+    width: 100px;
+    height: 38px;
+    background-color: #00FA9A;
+    border: none;
+    position: absolute;
+}
+/* style for button 3 */
+.button3
+{
+  background-attachment: fixed;
+  position: absolute;
+    left: 85em;
+    top: 1em;
+    width: 107px;
+    height: 38px;
+    background-color: #00FA9A;
+    border: none;
+    border-radius: 8px;
+}
+/* style for button 4 */
+.button4
+{
+  background-attachment: fixed;
+  position: absolute;
+    left: 95em;
+    top: 1em;
+    width: 100px;
+    height: 38px;
+    background-color: #00FA9A;
+    border: none;
+    border-radius: 8px;
+}
+/* style for horizontal line */
+hr
+{ width:100%;
+  height:1px;
+  background: gray;
+  background-attachment: fixed;
+
+}
+/* style for button 5 */
+.button5
+{
+  background-attachment: fixed;
+  position: absolute;
+    left: 28em;
+    top: 11em;
+  padding: 1px;
+  width: 250px;
+  height: 36px;
+  border-radius: 8px;
+  border: 1px solid gainsboro;
+  background: none;
+}
+/* style for button 6 */
+.button6
+{
+  background-attachment: fixed;
+  position: absolute;
+    left: 55em;
+    top: 11em;
+    padding: 1px;
+    width: 250px;
+    height: 36px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+    background: none;
+}
+/* style for button 7 */
+.button7
+{
+  background-attachment: fixed;
+  position: absolute;
+    left: 85em;
+    top: 11em;
+    padding: 1px;
+    width: 250px;
+    height: 36px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+    background: none;
+}
+/* style for button 8 */
+.button8
+{
+  background-attachment: fixed;
+  position: absolute;
+    left: 28em;
+    top: 16em;
+    padding: 1px;
+    width: 250px;
+    height: 36px;
+    border-radius: 8px;
+    border: 1px solid gainsboro;
+    background: none;
+}
+/* style for drop down box */
+.drop
+{
+  background-attachment: fixed;
+  position: absolute;
+  left:90em;
+  top:16em;
+      width: 40px;
+      height: 25px;
+}
+.body
+{
+  background-attachment: fixed;
+}
+.show{
+  position: absolute;
+  left:72em;
+  top:196px;
+}
+.entry{
+  position: absolute;
+  left:1250px;
+  top:196px;
+}
+/* style for table */
+table
+{
+  position: absolute;
+  left: 320px;
+  top: 283px;
+  border-collapse: collapse;
+  width: 1150px;
+
+}
+tr{
+  outline: thin solid #e0e0d1;
+}
+th{
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: left;
+  background-color: #e0e0d1;
+}
+td
+{
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: left;
+}
+/* style for anchor */
+.b{
+  position: absolute;
+  visibility: visible;
+  margin-left:8px;
+  margin-top:1em;
+  font-size: 20px;
+  height: 30px;
+  width:74px;
+}
+.b a{
+  color: white;
+  text-decoration: none;
+  margin-left: 15px;
+}
+.b a:hover
+{
+   background-color:#00ff7f;
+  width: 100px;
+  color: white;
+}
